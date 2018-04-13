@@ -1,0 +1,400 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #fff
+}
+
+.navbar-default{
+    background: #162A43;
+    box-shadow: 1px 1px 1px #333;
+    margin-bottom: 30px;
+}
+
+.navbar-default .container-fluid
+.navbar-header .navbar-toggle{
+    border: 1px solid #234761;
+}
+
+.navbar-default .container-fluid
+.navbar-header .navbar-toggle:hover{
+    background: #244268;
+}
+
+.navbar-default .container-fluid
+.navbar-header .navbar-toggle:focus{
+    background: #244268;
+}
+
+.navbar-default .container-fluid
+.navbar-header .navbar-brand img{
+    width: 35px;    
+    float: left;
+    margin-top: -7px;
+    margin-right: 5px;
+    margin-left: -15px;
+}
+
+.navbar-default .container-fluid
+.navbar-header .navbar-brand {
+    font-family: 'Calibri';
+    font-size: 18px;
+    /* font-weight: bolder; */
+    color: #fff;
+    text-shadow: 1px 1px 1px #637077;
+    margin-right: 10px;
+}
+
+.navbar-default .container-fluid
+.navbar-collapse .nav li a{
+    color: #fff;
+}
+
+.navbar-default .container-fluid
+.navbar-collapse .nav li a:focus{
+    background: #234761;
+}
+
+
+.navbar-default .container-fluid
+.navbar-collapse .nav .dropdown-menu{
+    background: #234761;
+}
+
+
+.navbar-default .container-fluid
+.navbar-collapse .nav .dropdown-menu
+li a:hover{
+    color: #10adb3;
+}
+
+#carousel-container .panel .panel-heading{
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+
+#carousel-container .panel .panel-body
+.carousel
+{
+    margin-top: -15px;
+}
+
+#container-index{
+    margin-top: 50px;
+}
+
+.container .panel.panel-default
+#panel-body-intro{
+    display: inline-block;
+}
+
+.container .panel.panel-default
+.panel-body #logo{
+    margin: -50px auto 0px;
+}
+
+.container .panel.panel-default
+.panel-body .veo{
+    margin-left: 20px;
+}
+
+.container .panel.panel-default
+.panel-body .text{
+    font-family: 'Century Gothic';
+    font-size: 30px;
+    color: #333;
+    margin-left: 10px;
+    margin-top: 1px;
+    display: inline-block;
+}
+
+.container .panel.panel-default
+.panel-body .text2{
+    font-family: 'Century Gothic';
+    font-size: 14px;
+    color: #333;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.container .panel.panel-default
+.panel-body .text3{
+    font-family: 'Century Gothic';
+    font-size: 12px;
+    font-weight: lighter;
+    color: #7CA4F9;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.container .panel.panel-default
+.panel-body .btn.btn-info{
+    /* display: block; */
+    margin-top: -8px;
+    margin-left: 10px;
+    background: #222;
+    border: 1px solid #9b8e8e;
+    transition: all 0.30s;
+}
+
+.container .panel.panel-default
+.panel-body .btn.btn-info:hover{
+    background: #010066;
+}
+
+
+
+.container .panel.panel-default
+.panel-heading{
+    background: #162A43;
+    font-family: 'Corbel';
+    font-size: 20px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.container .panel.panel-default
+#panel-body-table{
+    padding: 0;
+    padding-top: 10px;
+}
+
+.modal .modal-dialog{
+    margin-top: 100px;
+}
+
+.modal .modal-dialog .modal-content
+.modal-header{
+    background: #333;
+    border-radius: 5px 5px 0px 0px;
+    font-family: Corbel;
+    font-weight: lighter;
+    color: #fff;
+}
+
+.modal .modal-dialog .modal-content
+.modal-header button{
+    color: #fff;
+}
+
+.modal .modal-dialog .modal-content
+.modal-body img,.fullname,.account{
+    margin-top: 10px;
+}
+
+.modal .modal-dialog .modal-content
+.modal-body .fullname{
+    font-family: 'Candara';
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+.modal .modal-dialog .modal-content
+.modal-body .account{
+    font-family: 'Century Gothic';
+    font-size: 14px;
+    color: #333;
+}
+
+.modal .modal-dialog .modal-content
+.modal-footer .online{
+    float: left;
+    margin-top: 5px;
+}
+
+.modal .modal-dialog .modal-content
+.modal-footer .online img{
+    margin-top: -3px;
+}
+
+/* Account Registration */
+.container .row .col-sm-3
+.txt{
+    font-family: 'Corbel';
+    font-size: 16px;
+    font-weight: bolder;
+    color: #333;
+}
+
+.container .row .col-sm-3
+form input[type="submit"]{
+    margin-top: 10px;
+    font-family: 'Corbel';
+}
+
+.container .row .col-sm-3 
+form #lblAccount,#lbltop{
+    margin-top: 30px;
+}
+
+.container .row .col-sm-3 
+form label,.btn-primary{
+    font-family: 'Corbel';
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+select{
+    cursor: pointer;
+}
+
+#ownTitle{
+    font-family: 'Corbel';
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+}
+
+.row .col-sm-12 .panel.panel-default
+.panel-body .table-responsive
+table tbody tr td{
+    padding: 10px;
+}
+
+.ctxt{
+    font-family: 'Corbel';
+    font-size: 12px;
+    color: #333;
+}
+
+.dtxt{
+    font-family: 'Corbel';
+    font-size: 10px;
+    color: #333;
+}
+
+.row .col-sm-12 .panel.panel-default
+.panel-heading .form-inline{
+    margin-top: -28px;
+    display: block;
+}
+
+.container .row .col-sm-3 
+.panel.panel-default
+#panel-heading-eval{
+    font-family: 'Corbel';
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.container .row .col-sm-3 
+.panel.panel-default .panel-body
+.form-group label{
+    font-family: 'Corbel';
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+/* Login Designed */
+#container-login{
+    margin-top: 250px;
+}
+
+#container-login .panel{
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #333;
+}
+
+#container-student{
+    margin-top: 50px;
+}
+
+#container-login-box .col-sm-6
+.panel{
+    border: 1px solid #616161;
+    box-shadow: 1px 1px 2px #333;
+    padding: 0px;
+}
+
+#container-login-box .col-sm-6
+.panel .panel-heading{
+    background: #162A43;
+    font-family: 'Century Gothic';
+    font-weight: lighter;
+    font-size: 14px;
+    color: #ccc;
+}
+
+#container-login-box .col-sm-6
+.panel .panel-heading.admin{
+    color: #fff;
+}
+
+#container-login-box .col-sm-6
+.panel .panel-heading.student{
+    color: #fff;
+}
+
+#container-login-box .col-sm-6
+.panel .panel-heading.teacher{
+    color: #fff;
+}
+
+#container-login-box .col-sm-6
+.panel .panel-body .btn{
+    background: #162A43;
+    border: 1px solid #162A43;
+    transition: all 0.30s ease-in-out;
+}
+
+#container-login-box .col-sm-6
+.panel .panel-body .btn:hover{
+    background: #fff; 
+    color: #333;
+    border: 1px solid #333;
+}
+
+.ins{
+    margin-top: -20px;
+    font-family: 'Century Gothic';
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgb(233, 0, 0);
+}
+
+.lbl{
+    font-family: 'Calbri';
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+footer{
+    background: #222;
+    padding: 10px;
+}
+
+footer .web_title{
+    font-family: Agency FB;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+footer p{
+    font-family: 'Century Gothic';
+    font-weight: lighter;
+    font-size: 14px;
+    color: #c9caca;
+    margin-top: 10px;
+}
+
+footer .sub{
+    font-size: 11px;
+    color: #fff;
+    margin-top: -5px;
+}
+
+footer .sub2{
+    font-size: 11px;
+    color: #6c94af;
+}
+
+footer .grp{
+    font-size: 10px;
+    color: #75b7e2;
+}
